@@ -39,7 +39,5 @@ public class Configuration {
 	 */
 	public void setMinimum(int minimum) {
 		this.minimum = minimum;
-	}
-	
-	
+	}	
 }
