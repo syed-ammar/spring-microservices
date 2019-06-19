@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Learning\Spring_boot\microservices-ws-feb2019\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2177910592.index
+\Way2learnTraderApp\src\main\java
+C:\Learning\Spring_boot\microservices-ws-feb2019\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3831826767.index
+\02-05-way2learntrader-web-start\src\main\java
+C:\Learning\Spring_boot\microservices-ws-feb2019\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3089371390.index
+\02-05-way2learntrader-web-start\src\main\java
+C:\Learning\Spring_boot\microservices-ws-feb2019\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\417802343.index
+\Way2learnTraderApp\src\main\java

@@ -1,0 +1,26 @@
+INDEX VERSION 1.131+C:\Learning\Spring_boot\microservices-ws-feb2019\.metadata\.plugins\org.eclipse.jdt.core
+3308582948.index
+1948315908.index
+3426048941.index
+4231826421.index
+1894042071.index
+1415076042.index
+3009167689.index
+3974054501.index
+3856134236.index
+318710082.index
+12364686.index
+337313620.index
+3860528337.index
+2234854205.index
+1018153159.index
+2542765296.index
+1096495170.index
+2026030035.index
+1952926729.index
+796716247.index
+1729974132.index
+3605461853.index
+2746201553.index
+346172191.index
+2973982277.index

@@ -1,0 +1,32 @@
+spring:
+  application:
+     name: accounts-service
+     
+  datasource:
+    url: jdbc:mysql://localhost/micro
+    username: root
+    password: admin
+  jpa:
+    generate-ddl: true
+
+eureka:
+  instance:
+    instance-id: ${spring.application.name}:${random.value}
+    lease-expiration-duration-in-seconds: 1
+    lease-renewal-interval-in-seconds: 3
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:5001/eureka
+      
+server:
+  port: 2001
+  
+logging:
+  level: 
+    httpclient.wire: DEBUG 
+    
+    
+  
+ 
+ 
+  
